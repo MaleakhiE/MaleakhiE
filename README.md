@@ -37,6 +37,11 @@ I am also proficient in operating several programming languages.
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Pycharm" **alt="Pycharm" width="40" height="40"/>
 </div>
 
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **MaleakhiE/MaleakhiE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
