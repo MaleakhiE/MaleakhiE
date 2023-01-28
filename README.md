@@ -6,7 +6,9 @@ I am also proficient in operating several programming languages.
 - 🌱 I’m currently learning about Data Science and Engineering.
 - 👯 I’m looking to collaborate on focusing data.
 
-- :mailbox:How to reach me:
+---
+
+### :mailbox:How to reach me:
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
