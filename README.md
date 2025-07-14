@@ -1,11 +1,5 @@
 ### Hi there 👋
-Hello i'm Maleakhi Ekklesia, an Informatics student. I am an active, critical, disciplined, capable person
-work individually as well as in a team, happy to learn new things, and easy to adapt. Not only
-I am also proficient in operating several programming languages.
-
-- 💬 I'm a final year student at the Bandung National Institute of Technology.
-- 🌱 I’m currently learning about Data Science and Engineering.
-- 👯 I'm very interested in studying data.
+Hello i'm Maleakhi Ekklesia, I am more conversant with several programming languages and a firm in computer science laws to remain effective in any project or workgroup. I also learn readily, having several crucial emerging trends and technologies that make me relevant in any institution, and particularly in software development.
 
 ---
 
