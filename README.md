@@ -1,8 +1,3 @@
-### Hi there 👋
-Hello i'm Maleakhi Ekklesia, I am more conversant with several programming languages and a firm in computer science laws to remain effective in any project or workgroup. I also learn readily, having several crucial emerging trends and technologies that make me relevant in any institution, and particularly in software development.
-
----
-
 ### :mailbox:How to reach me :
 
 <div id="badges" align="center">
@@ -20,18 +15,3 @@ Hello i'm Maleakhi Ekklesia, I am more conversant with several programming langu
 ---
 ### 🔥 My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaleakhiE&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**MaleakhiE/MaleakhiE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
